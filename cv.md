@@ -1,4 +1,4 @@
-* CV
+# CV
 1. Full name: Mark Lis
 2. e-mail: m.web.jan@gmail.com
 3. About me: I'm a 4th year college student.
